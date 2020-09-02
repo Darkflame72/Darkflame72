@@ -1,4 +1,4 @@
-### Hi there, I'm Leon - aka [Darkflame72][website] 👋
+### Hi there, I'm Leon - aka Darkflame72 👋
 
 ## I'm a Student, Developer and Teacher!
 - 🔭 I’m currently working on a [Discord Bot][obsidion]!
