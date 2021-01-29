@@ -27,6 +27,9 @@ Hi, I'm [Leon Bowie!](https://darkflame72.dev/), a passionate developer.
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
