@@ -28,7 +28,7 @@ Hi, I'm [Leon Bowie!](https://darkflame72.dev/), a passionate developer.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 58 mins    ████████████████████████▓   98.90 % 
+Python   1 hr 10 mins    ████████████████████████▓   98.80 % 
 ```
 <!--END_SECTION:waka-->
 
