@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm [Leon Bowie!](https://darkflame72.dev/), a passionate developer.
+Hi, I'm [Leon Bowie!](https://darkflame.dev/), a passionate developer.
 
 <img align="right" alt="GIF" src="https://github.com/Darkflame72/Darkflame72/blob/main/code.gif?raw=true" width="500" height="320" />
   
