@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm [Leon Bowie!](https://darkflame.dev/), a passionate developer.
+Hi, I'm Leon Bowie!, a passionate developer, researcher, teacher and student.
   
 **Talking about Personal Stuff:**
 
