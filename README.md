@@ -40,3 +40,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Darkflame72&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Darkflame72&theme=gotham)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkflame72&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
