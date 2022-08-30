@@ -32,11 +32,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="60" height="60"/>&nbsp;
 </p>
-
-
-
----
-
-### 🔥 &nbsp; My Stats :
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Darkflame72&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkflame72&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
