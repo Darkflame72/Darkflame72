@@ -6,8 +6,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
 
-- 🔭 I’m working as an Analyst Developer and working in supporting devops and cloud.
-- 📚 Currently studying Computer Science and Mathematics at [Victoria University of Wellington](https://wgtn.ac.nz)
+- 🔭 I’m working as a Software Developer in the Developer Experience team at FNZ.
+- 📚 Currently studying a major in Computer Science and minor in Mathematics at [Te Herenga Waka - Victoria University of Wellington](https://wgtn.ac.nz)
 - 🌱 Exploring embedded programming and Rust.
 - 📝 Founder and President of the [Victoria Engineering Club](https://vec.ac.nz)
 - ⚡  In my free time I chair and run Tūhura Tech a charity that helps kids learn to code.
