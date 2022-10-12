@@ -9,7 +9,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Developer in the Developer Experience team at FNZ.
 - 📚 Currently studying a major in Computer Science and minor in Mathematics at [Te Herenga Waka - Victoria University of Wellington](https://wgtn.ac.nz)
 - 🌱 Exploring embedded programming and Rust.
-- 📝 Founder and President of the [Victoria Engineering Club](https://vec.ac.nz)
+- 📝 Founder and Former President of the [Victoria Engineering Club](https://vec.ac.nz)
 - ⚡  In my free time I chair and run Tūhura Tech a charity that helps kids learn to code.
 - 📫 Feel free to send me an email as I would love to chat: leon@bowie-co.nz
 
