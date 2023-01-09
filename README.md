@@ -7,8 +7,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
 
 - 🔭 I’m working as a Software Developer in the Developer Experience team at FNZ.
-- 📚 Currently studying a major in Computer Science and minor in Mathematics at [Te Herenga Waka - Victoria University of Wellington](https://wgtn.ac.nz)
-- 🌱 Exploring embedded programming and Rust.
+- 📚 Currently studying a major in Computer Science at [Te Herenga Waka - Victoria University of Wellington](https://wgtn.ac.nz)
+- 🌱 Exploring Cybersecurity and DevOps.
 - 📝 Founder and Former President of the [Victoria Engineering Club](https://vec.ac.nz)
 - ⚡  In my free time I chair and run Tūhura Tech a charity that helps kids learn to code.
 - 📫 Feel free to send me an email as I would love to chat: leon@bowie-co.nz
@@ -27,7 +27,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" **alt="ArgoCD" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="60" height="60"/>&nbsp;
