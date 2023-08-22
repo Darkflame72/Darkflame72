@@ -4,12 +4,12 @@
 
 ### 👨‍💻: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
+I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
 
-- 🔭 I’m working as a Software Developer in the Developer Experience team at FNZ.
+- 🔭 I’m working as a DevOps Engineer in the Developer Experience team at FNZ.
 - ⚡  In my free time I chair and run [Tūhura Tech](https://tuhuratech.org.nz) a charity that helps kids learn to code.
-- 📝 Founder and Former President of the [Victoria Engineering Club](https://vec.ac.nz) and the VEC Collective.
-- 🌱 Exploring Cybersecurity.
+- 📝 Slowly building an overkill homelab because why not.
+- 🌱 Exploring wearable tech.
 
 ---
 
