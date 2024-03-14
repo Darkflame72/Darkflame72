@@ -7,9 +7,7 @@
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New Zealand.
 
 - 🔭 I run the DevOps Engineering Team at FNZ.
-- ⚡  In my free time I chair and run [Tūhura Tech](https://tuhuratech.org.nz) a charity that helps kids learn to code.
-- 📝 Slowly building an overkill homelab because why not.
-- 🌱 Exploring wearable tech.
+- ⚡ I run [Tūhura Tech](https://tuhuratech.org.nz) a charity that with technology education across Greater Wellington.
 
 ---
 
